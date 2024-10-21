@@ -1,4 +1,4 @@
-Welcome to my personal portfolio, crafted with a sleek, creative, and interactive UI that brings my journey to life. Here, you’ll discover a seamless blend of my skills, certifications, and personal achievements — all showcased with a touch of innovation.
+Welcome to my personal portfolio, crafted with a sleek, creative, and interactive UI that brings my journey to life. Here, you’ll discover a seamless blend of my skills, certifications, and personal achievements. All showcased with a touch of innovation.
 
 ![README_PortIntro](https://github.com/user-attachments/assets/376c18fc-2141-4801-abf1-ad73995283a3)
 
