@@ -6,6 +6,6 @@ Welcome to my personal portfolio, crafted with a sleek, creative, and interactiv
 
 ![README_PortCert](https://github.com/user-attachments/assets/a05cd303-eb1b-40e5-b35b-fa817707471f)
 
-![README_PortProject](https://github.com/user-attachments/assets/99436a23-8119-4fe5-8569-a589ee4ddc3a)
+![README_PortProject](https://github.com/user-attachments/assets/b997aaba-44d4-4c48-a8ac-dc4ea4ec9e5c)
 
 ![README_PortHandles](https://github.com/user-attachments/assets/6ae3c215-ad67-4d42-8e0d-ec40fa149678)
