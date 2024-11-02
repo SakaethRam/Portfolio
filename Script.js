@@ -80,6 +80,13 @@ const nav = document.querySelector(".nav"),
             window.location.href = "https://medium.com/@sakaethrambusiness";
           };
 
+          document.getElementById("Pro_verify").onclick = function() {
+            window.location.href = "assets/Professional.pdf";
+          };
+
+          document.getElementById("Cert_verify").onclick = function() {
+            window.location.href = "assets/Certification.pdf";
+          };
           /* Download Cover Letter PDF */
 
           document.getElementById('CoverL_PDF').addEventListener('click', function() {
