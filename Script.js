@@ -87,43 +87,14 @@ const nav = document.querySelector(".nav"),
           document.getElementById("Cert_verify").onclick = function() {
             window.location.href = "assets/Certification.pdf";
           };
-          /* Download Cover Letter PDF */
 
-          document.getElementById('CoverL_PDF').addEventListener('click', function() {
-            // Specify the URL of the PDF file
-            const pdfUrl = 'assets/Cover Letter.pdf';
+          document.getElementById("CoverL_PDF").onclick = function() {
+            window.location.href = "assets/Cover Letter.pdf";
+          };
 
-            // Create an invisible anchor element
-            const link = document.createElement('a');
-            link.href = pdfUrl;
-            link.download = 'assets/Cover Letter.pdf';  // File name for the download
-
-            // Programmatically trigger the download by clicking the anchor element
-            document.body.appendChild(link);
-            link.click();
-
-            // Remove the anchor element after the download starts
-            document.body.removeChild(link);
-        });
-
-        /* Download Cover Letter PDF */
-
-        document.getElementById('OfferL_PDF').addEventListener('click', function() {
-          // Specify the URL of the PDF file
-          const pdfUrl = 'assets/Offer Letter.pdf';
-
-          // Create an invisible anchor element
-          const link = document.createElement('a');
-          link.href = pdfUrl;
-          link.download = 'assets/Offer Letter.pdf';  // File name for the download
-
-          // Programmatically trigger the download by clicking the anchor element
-          document.body.appendChild(link);
-          link.click();
-
-          // Remove the anchor element after the download starts
-          document.body.removeChild(link);
-      });
+          document.getElementById("OfferL_PDF").onclick = function() {
+            window.location.href = "assets/Offer Letter.pdf";
+          };
 
         window.addEventListener('load', function() {
           const splashScreen = document.getElementById('splash-screen');
