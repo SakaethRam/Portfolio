@@ -73,11 +73,7 @@ const nav = document.querySelector(".nav"),
           };
 
           document.getElementById("GitHub_connect").onclick = function() {
-            window.location.href = "https://github.com/SamRock294/ArkinWalkMan.github.io";
-          };
-
-          document.getElementById("Medium_connect").onclick = function() {
-            window.location.href = "https://medium.com/@sakaethrambusiness";
+            window.location.href = "https://github.com/SakaethRam";
           };
 
           document.getElementById("Pro_verify").onclick = function() {
