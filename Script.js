@@ -65,7 +65,7 @@ const nav = document.querySelector(".nav"),
           };
 
           document.getElementById("MedMeta_verify").onclick = function() {
-            window.location.href = "https://medium.com/@sakaethrambusiness/features-of-meta-bc6715652821";
+            window.location.href = "https://medium.com/@sakaethrambusiness";
           };
 
           document.getElementById("LinkedIn_connect").onclick = function() {
