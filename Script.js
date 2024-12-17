@@ -65,7 +65,7 @@ const nav = document.querySelector(".nav"),
           };
 
           document.getElementById("MedMeta_verify").onclick = function() {
-            window.location.href = "https://medium.com/@sakaethrambusiness";
+            window.location.href = "https://www.arkinx.com/profile/sakaethrambusiness/forum-posts";
           };
 
           document.getElementById("LinkedIn_connect").onclick = function() {
